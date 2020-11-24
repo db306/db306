@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+<h3 align="center">A passionate backend developer 🇪🇸🇬🇧🇫🇷</h3>
 
 - 🔭 I’m currently working on [Slicr](slicr.io)
 
